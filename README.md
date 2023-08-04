@@ -1,7 +1,7 @@
 <h1 align="center">Hii 👋, I'm Isabella</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **JavaScript, React and Angular**
+- 🌱 I’m currently learning **JavaScript, Angular and UX Design**
 
 - 📫 How to reach me **isabellasleda@gmail.com**
 
